@@ -8,6 +8,7 @@
 	"files": {
 		"ignoreUnknown": false,
 		"ignore": [
+			"deno.lock",
 			"src/**/*.css",
 			"src/public/**/*",
 			"dist/**/*",
